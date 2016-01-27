@@ -44,7 +44,9 @@ On attend le résultat suivant (position finale des tondeuses) :
 NB: Les données en entrée peuvent être injectée sous une autre forme qu'un fichier (par exemple un test automatisé).
 
 # Instructions
+Input can be a file or the standard console input 
+
 java MowItNow TestFile
-or
+
 java MowItNow < StandardInput
 
